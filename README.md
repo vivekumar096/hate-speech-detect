@@ -199,13 +199,6 @@ I deployed the fine-tuned BERT model through both a web application and an API.
 
 
 ### API
-I developed an API endpoint to enable integration with other applications or services by leveraging the Flask framework and utilized <a href="https://www.postman.com/">Postman</a> for testing and documenting the API.
-
-API documentation: [See here](https://documenter.getpostman.com/view/28394113/2s946eBERv)
-
-![Model deployment API](/images/model_deployment_api.gif)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
