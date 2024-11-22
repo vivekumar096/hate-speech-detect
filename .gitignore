@@ -1,0 +1,12 @@
+.env
+/venv_deployment
+/.idea
+/data
+/literature
+/images/jon-tyson-IYtVtgXw72M-unsplash.jpg
+/plots/model1_learning_curve_accuracy.png
+/plots/model1_learning_curve_loss.png
+/plots/model2_learning_curve_accuracy.png
+/plots/model2_learning_curve_loss.png
+/plots/model3_learning_curve_accuracy.png
+/plots/model3_learning_curve_loss.png
